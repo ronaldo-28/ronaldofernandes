@@ -20,7 +20,14 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark&padding=7
+          outputs: dist/snake.svg?palette=github-dark
+
+      - name: fix snake.svg clipping
+        run: |
+          # This step injects a clipPath into the SVG to confine the snake vertically.
+          # Adjust 'y' and 'height' values below based on your SVG’s viewBox.
+          sed -i 's/<svg /<svg clip-path="url(#clip-box)" /' dist/snake.svg
+          sed -i '/<svg /a <defs><clipPath id="clip-box"><rect x="0" y="7" width="100%" height="86" /></clipPath></defs>' dist/snake.svg
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
