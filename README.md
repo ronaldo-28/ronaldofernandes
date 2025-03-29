@@ -25,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=ronaldo-28&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" / >
+<img src="https://github.com/ronaldo-28/ronaldo-28/blob/output/snake.svg" alt="Snake animation" / >
