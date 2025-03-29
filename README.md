@@ -23,9 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ronaldo-28&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ronaldo-28/ronaldo-28/blob/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ronaldo-28/ronaldo-28/blob/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
