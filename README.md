@@ -25,7 +25,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ronaldo-28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Visitor Count
-![](https://visitcount.itsvg.in/api?id=ronaldo-28&icon=6&color=1)](https://visitcount.itsvg.in)
+### Visitor Count
+![]https://visitcount.itsvg.in/api?id=ronaldo-28&icon=6&color=1)](https://visitcount.itsvg.in)
 ---
 
