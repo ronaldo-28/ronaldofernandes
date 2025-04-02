@@ -21,6 +21,7 @@
 
 ### 🏅 Achievements
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url)
+https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
