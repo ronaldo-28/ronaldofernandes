@@ -20,14 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🏅 Achievements
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url)
-https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url
-[View my Credly badge](https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url)
-![My Credly Badge](https://images.credly.com/size/110x110/images/4ed85864-1734-4b01-8140-c3fd798e6d72.png)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4ed85864-1734-4b01-8140-c3fd798e6d72" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<iframe width="150" height="270" src="https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url" frameborder="0"></iframe>
-
+[![IBM Applied AI Professional Certificate Badge](https://images.credly.com/size/680x680/images/71ea89f1-c707-454d-a20e-a30b5e4c8305/image.png)](https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url)
 
 
 
