@@ -19,6 +19,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🏅 Achievements
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -29,6 +32,4 @@
 [![Visitor Count](https://profile-counter.glitch.me/ronaldo-28/count.svg)](https://profile-counter.glitch.me/ronaldo-28/count)
 ---
 
-# My Achievements 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4ed85864-1734-4b01-8140-c3fd798e6d72" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
