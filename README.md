@@ -19,11 +19,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Achievements
-
-[![My Credly Badge](https://images.credly.com/size/110x110/images/4ed85864-1734-4b01-8140-c3fd798e6d72.png)](https://www.credly.com/badges/4ed85864-1734-4b01-8140-c3fd798e6d72/public_url)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
